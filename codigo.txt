@@ -11,7 +11,7 @@ int dos(int x,int y){
 }
 
 main{
-	print("holamundo");
+	print("hola mundo");
 	uno();
 	a = 2;
 	b = 3;
